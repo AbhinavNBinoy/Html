@@ -1,0 +1,45 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+  }
+  
+  p {
+    font-size: 1em;
+    margin-top: 0;
+  }
+  
+  nav {
+    background-color: #000;
+    color: #fff;
+    padding: 1em;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 1em;
+    
+  }
+  
+  nav a:hover {
+    color: #000;
+    background-color: #fff;
+  }
+  
+  footer {
+    background-color: #000;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
